@@ -7,4 +7,4 @@ Search image using flicker search api in javascript with the same ui of google s
 
 # By : Sayed Mohamed
 
-# Website: https://seka95.herokuapp.com
+# Website: https://sekaa.herokuapp.com
