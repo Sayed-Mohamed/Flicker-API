@@ -1,6 +1,6 @@
 /* ================================
  * Author:Sayed Mohamed;
- * Website:seka95.herokuapp.com;
+ * Website:sekaa.herokuapp.com;
  * ================================*/
 
 html, body, div, span, applet, object, iframe,
@@ -75,7 +75,8 @@ body {
 /*  !Search form */
 
 .search-form {
-	margin: 2em 0;
+    margin: 2em 0;
+    display: initial;
     display: contents;
 }
 
